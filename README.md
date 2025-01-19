@@ -44,7 +44,6 @@ SME uses the Stock Game folder system. That means the setup includes a unique co
 ***
 ## Installation
 
-Installing Skyrim Modding Essential is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 ***
 ### Pre-Installation
 
