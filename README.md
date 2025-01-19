@@ -10,36 +10,6 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Phoenix, updated by St
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-***
-
-## Introduction
-### About Skyrim Modding Essentials.
-
-Skyrim Modding Essentials is a Wabbajack utility list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods. As such, it is intended for experienced modders and no support will be provided beyond the contents of the list itself.
-
-The list was made for Skyrim SE 1.6.x, though the Anniversary Edition DLC is not required.
-
-Support is available on the [Aetherius Modding Discord](https://discord.gg/xRrHRsb5e9) server.
-
-**Full modlist can be viewed [here](https://loadorderlibrary.com/lists/sme-rebuild)**
-***
-## Features
-
-Check the complete mod list and load order on Load Order Library.
-
-- A lean, basic setup clocking in at around 3.8GB plus less than 1GB of downloads.
-- Latest stable version of Mod Organizer 2 installed with a separate copy of the vanilla game (Stock Game Folder).
-- A collection of handy Mod Organizer 2 plugins for various purposes, see the full list here.
-- All modding tools you could possibly need are included and pre-configured, see the full list here.
-- Skyrim Script Extender with a correctly configured SKSE.ini file and Address Library for SKSE Plugins.
-- All the essentials, including but not limited to MCM Helper, SkyUI, and SSE Display Tweaks.
-- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the website.
-- The foundational collections of tweaks and fixes: SSE Engine Fixes, po3’s Tweaks, Scrambled Bugs.
-- Additional fixes that should be relevant for and compatible with any setup with further recommendations.
-- Optionally includes full widescreen support with all relevant patches.
-- Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
-
-SME uses the Stock Game folder system. That means the setup includes a unique copy of your vanilla game, ensuring the setup is completely standalone and whatever you keep in your default installation folder will not affect the setup at all. This is a lifesaver when you keep more than one instance of MO2. Setting up all tools for Stock Game folder can be a little annoying so you’re welcome, it’s all done for you.
 
 ***
 ## Installation
