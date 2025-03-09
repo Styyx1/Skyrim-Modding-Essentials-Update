@@ -10,7 +10,7 @@
       "github/TDarkShadow"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Official",
       "Lightweight",
