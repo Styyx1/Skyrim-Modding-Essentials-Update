@@ -1,5 +1,26 @@
 # Changelog
 
+## 2.7.1
+
+### General
+
+- applied BethINI High as the default ini settings
+- markers should not show ingame anymore
+
+### Mods
+
+- updated Unofficial Skyrim Special Edition Patch
+- updated Knotwork
+- updated Powerofthree's Papyrus Extender
+- updated Dragonactorscript infinite loop fix
+- updated Dyndolod Resources SE
+- updated ENB Extender Skyrim
+- updated Community Shaders
+
+### Tools
+
+- updated Dyndolod
+
 ## 2.7.0
 
 ### MO2
